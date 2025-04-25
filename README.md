@@ -1,4 +1,4 @@
-## Express.JS Installation Guide
+## Express.js Installation Guide
 
 Express.js is a minimal and flexible Node.js web application framework. Follow these steps to install and set up Express.js:
 
@@ -75,8 +75,6 @@ npm run build # Production Mode
 ```
 
 Open `http://localhost:3000/` in a browser to see the output.
-
-
 
 ## **📌 License**
 
