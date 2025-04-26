@@ -76,7 +76,7 @@ npm run build # Production Mode
 
 Open `http://localhost:3000/` in a browser to see the output.
 
-## **📌 License**
+## **📄 License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
